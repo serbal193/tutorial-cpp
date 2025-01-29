@@ -2,7 +2,7 @@
 
 int main()
 {
-	std::cout << "Te amo Clarissa!" << std::endl;
+	std::cout << "Hello World!" << std::endl;
 	std::cin.get();
 
 }
